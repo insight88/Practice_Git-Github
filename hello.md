@@ -64,4 +64,4 @@
 ## Double revert
 
 - 최신부터 순서대로 revert를 반복 적용
-  
+- Terminal : git revert HEAD HEAD~1
